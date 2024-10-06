@@ -4,4 +4,4 @@ In an era where effective financial management is paramount yet challenging for 
 ![MonsterVault app icon](/app_icon.png)
 
 ## Animation
-<video src="Monster.mp4">
+<video src="https://github.com/esa0624/GamifiedBudgetingApp/blob/main/Monster.mp4">
