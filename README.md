@@ -4,4 +4,5 @@ In an era where effective financial management is paramount yet challenging for 
 ![MonsterVault app icon](/app_icon.png)
 
 ## Animation
-<video src='Monster.mp4' width=180/>
+
+<video src="https://user-images.githubusercontent.com/Monster.mp4"></video>
